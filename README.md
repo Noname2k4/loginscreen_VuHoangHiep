@@ -17,9 +17,9 @@ Mật khẩu: 123456
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/1.png" width="150"/></td>
-      <td><img src="screenshots/2.png" width="150"/></td>
-      <td><img src="screenshots/3.png" width="150"/></td>
+      <td><img src="screens/1.png" width="150"/></td>
+      <td><img src="screens/2.png" width="150"/></td>
+      <td><img src="screens/3.png" width="150"/></td>
     </tr>
   </table>
 </div>
