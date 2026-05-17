@@ -9,8 +9,8 @@
 
 ## Tài khoản mặc định
 
-Tên đăng nhập: HoangHiep
-Mật khẩu: 123456
+- Tên đăng nhập: HoangHiep
+- Mật khẩu: 123456
 
 ## Giao diện
 
